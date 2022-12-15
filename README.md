@@ -41,15 +41,16 @@
     
 - **Frameworks**:
 
-   ![React JS](https://img.shields.io/badge/ReactJS%20-%23E34F26.svg?style=for-the-badge&logo=reactjs&logoColor=white)
-   ![Next JS 13](https://img.shields.io/badge/NextJS%20-%231572B6.svg?style=for-the-badge&logo=nextjs13&logoColor=white)
-   ![React Native](https://img.shields.io/badge/ReactNative%20-%23F7DF1E.svg?style=for-the-badge&logo=reactnative&logoColor=black)
+   ![React JS](https://img.shields.io/badge/React-JS%20-%23E34F26.svg?style=for-the-badge&logo=reactjs&logoColor=white)
+   ![Next JS 13](https://img.shields.io/badge/Next-JS%20-%231572B6.svg?style=for-the-badge&logo=nextjs13&logoColor=white)
+   ![React Native](https://img.shields.io/badge/React-Native%20-%23F7DF1E.svg?style=for-the-badge&logo=reactnative&logoColor=black)
 	
 <br>
 
 - **Styling**:
+
    ![Tailwindcss](https://img.shields.io/badge/tailwindcss%20-%23E34F26.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-   ![Material UI](https://img.shields.io/badge/materialui%20-%23E34F26.svg?style=for-the-badge&logo=materialui&logoColor=white)
+   ![Material UI](https://img.shields.io/badge/Material-UI%20-%23E34F26.svg?style=for-the-badge&logo=materialui&logoColor=white)
    ![Sass](https://img.shields.io/badge/Sass%20-%23E34F26.svg?style=for-the-badge&logo=sass&logoColor=white)
 
 <br>
