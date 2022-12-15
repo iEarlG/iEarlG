@@ -2,6 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iEarlG&color=blue" alt="iEarlG" /> </p>
 <div>
+<p align="left"> <a href="https://twitter.com/itseaaarloffcl" target="blank"><img src="https://img.shields.io/twitter/follow/itseaaarloffcl?logo=twitter&style=for-the-badge" alt="itseaaarloffcl" /></a> </p>
 
 <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
 
