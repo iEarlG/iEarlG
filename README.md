@@ -12,9 +12,9 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
+- A passionate Self-taught Frontend developer
 - Playing multiple online game at spare time
-- Currently learning Web Development by Self
+- Currently learning Web Development, especially on building Web 3.0 Apps by Self
 - Personal website [link](https://iearl-v.me/)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://iearl-v.me/#skills)
 
@@ -125,8 +125,4 @@
 
 </div>
 
----
-
 Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
-
-Last Edited on: 09/11/2022
