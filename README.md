@@ -64,4 +64,5 @@
 </a>
 </div>
 
+<br>
 <p align="center">Edit by: iEarl G</p>
