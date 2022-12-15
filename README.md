@@ -6,7 +6,7 @@
 
 <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
 
-<h2> / about me /</h2>
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
   
 - ⭐ currently working on **web-development**
 - 💀 mostly working on **private repositories**
