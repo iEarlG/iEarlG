@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Earl A. Villapaz </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&pause=2001&center=true&width=435&lines=Earl+A.+Villapaz;Self-Taught+Front+End+Developer;+Finished+SHS+%40STICollegeDavao;with+honors+and+a+track+course+of+--%3E;Mobile+Apps+and+Web+Dev;Eager+to+learn+new+language's+and+tricks)](https://git.io/typing-svg"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&pause=2001&center=true&width=435&lines=Earl+A.+Villapaz;Self-Taught+Front+End+Developer;+Finished+SHS+%40STICollegeDavao;with+honors+and+a+track+course+of+--%3E;Mobile+Apps+and+Web+Dev;Eager+to+learn+new+language's+and+tricks"></a>
 </p>
 
 
