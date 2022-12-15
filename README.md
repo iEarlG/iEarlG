@@ -31,17 +31,17 @@
   <img src = "https://img.shields.io/badge/next_js-%2320232a.svg?style=for-the-badge&logo=nextjs&logoColor=%2361DAFB" alt = "next-js" />
   <img src = "https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt = "expo" />
   <img src = "https://img.shields.io/badge/tailwindcss-%23563D7C.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt = "tailwindcss" />
-  <img src = "https://img.shields.io/badge/materialui-%23563D7C.svg?style=for-the-badge&logo=materialui&logoColor=white" alt = "materialui" />
+  <img src = "https://img.shields.io/badge/material_ui-%23563D7C.svg?style=for-the-badge&logo=materialui&logoColor=white" alt = "material-ui" />
   <img src = "https://img.shields.io/badge/Sass-%23563D7C.svg?style=for-the-badge&logo=sass&logoColor=white" alt = "sass" />
-  <img src = "https://img.shields.io/badge/sanityio-%23563D7C.svg?style=for-the-badge&logo=sanityio&logoColor=white" alt = "sanityio" />
+  <img src = "https://img.shields.io/badge/sanity_io-%23563D7C.svg?style=for-the-badge&logo=sanityio&logoColor=white" alt = "sanity-io" />
   
 - <h4> Software & Tools </h4>
   <img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
+  <img src = "https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt = "vscode" />
   <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
   <img src = "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt = "git" />
   <img src = "https://img.shields.io/badge/github-%23F05033.svg?style=for-the-badge&logo=github&logoColor=white" alt = "github" />
   <img src = "https://img.shields.io/badge/windows-%23F05033.svg?style=for-the-badge&logo=windows&logoColor=white" alt = "windows" />
-  <img src = "https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt = "vscode" />
   
 - <h4> Supporting Languages & Tools </h4>
   <img src = "https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white" alt = "github-pages" />
@@ -58,7 +58,7 @@
 <div align="center">
   
 <a href="https://github.com/iEarlG/">
-  <img src="https://github-readme-stats.vercel.app/api?username=iEarlG&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iEarlG&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=00f9ff&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iEarlG&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="iEarlG"/>
 
 </a>
