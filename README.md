@@ -63,4 +63,5 @@
 
 </a>
 </div>
-<h3> Edit by: <p align="center">iEarl G</p></h3>
+
+<p align="center">Edit by: iEarl G</p>
