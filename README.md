@@ -4,11 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&pause=2001&center=true&width=435&lines=Earl+A.+Villapaz;Self-Taught+Front+End+Developer;+Finished+SHS+%40STICollegeDavao;with+honors+and+a+track+course+of+--%3E;Mobile+Apps+and+Web+Dev;Eager+to+learn+new+language's+and+tricks"></a>
 </p>
 
-
 <br>
-
-
-
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
@@ -42,7 +38,7 @@
 - **Frameworks**:
 
    ![React JS](https://img.shields.io/badge/React-JS%20-%23E34F26.svg?style=for-the-badge&logo=reactjs&logoColor=white)
-   ![Next JS 13](https://img.shields.io/badge/Next-JS%20-%231572B6.svg?style=for-the-badge&logo=nextjs13&logoColor=white)
+   ![Next JS](https://img.shields.io/badge/Next-JS%20-%231572B6.svg?style=for-the-badge&logo=nextjs13&logoColor=white)
    ![React Native](https://img.shields.io/badge/React-Native%20-%23F7DF1E.svg?style=for-the-badge&logo=reactnative&logoColor=black)
 	
 <br>
@@ -50,7 +46,7 @@
 - **Styling**:
 
    ![Tailwindcss](https://img.shields.io/badge/tailwindcss%20-%23E34F26.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-   ![Material UI](https://img.shields.io/badge/Material-UI%20-%23E34F26.svg?style=for-the-badge&logo=materialui&logoColor=white)
+   ![Material UI](https://img.shields.io/badge/Material%20UI-%23E34F26.svg?style=for-the-badge&logo=materialui&logoColor=white)
    ![Sass](https://img.shields.io/badge/Sass%20-%23E34F26.svg?style=for-the-badge&logo=sass&logoColor=white)
 
 <br>
@@ -58,6 +54,12 @@
 - **Cloud Hosting**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+
+<br>
+- **Supporting Language**:
+	
+    ![Sanity](https://img.shields.io/badge/Sanity%20-%23327FC7.svg?style=for-the-badge&logo=sanity&logoColor=white)
+    ![Stripe](https://img.shields.io/badge/Stripe%20-%23327FC7.svg?style=for-the-badge&logo=stripe&logoColor=white)
     
 <br>
 
@@ -70,31 +72,20 @@
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
 <br>
-
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
-
 </p>
-
-<br>
-<br>
 
 -----
 
 <br>
-
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
 <div align="center">
 
-<a href="https://github.com/0xabdulkhalid/">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xabdulkhalid&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
+<a href="https://github.com/iEarlG/">
+  <img src="https://github-readme-stats.vercel.app/api?username=iEarlG&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iEarlG&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="iEarlG"/>
 
 </a>
 </div>
