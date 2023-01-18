@@ -59,7 +59,7 @@
   
 <a href="https://github.com/iEarlG/">
   <img src="https://github-readme-stats.vercel.app/api?username=iEarlG&show_icons=true&theme=tokyonight" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iEarlG&show_icons=true" width="375"  alt="iEarlG"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iEarlG&show_icons=true&locale=en&layout=compact&line_height=20" width="375" alt="iEarlG"/>
 
 </a>
 </div>
