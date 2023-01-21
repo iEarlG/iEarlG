@@ -24,6 +24,7 @@
     <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "ts" />
     <img src = "https://img.shields.io/badge/python-%23ED8B00.svg?style=for-the-badge&logo=python&logoColor=white" alt = "python" />
     <img src = "https://img.shields.io/badge/mern-%23ED8B00.svg?style=for-the-badge&logo=mern&logoColor=white" alt = "mern" />
+    <img src = "https://img.shields.io/badge/web3-%23ED8B00.svg?style=for-the-badge&logo=web3&logoColor=white" alt = "web3.0" />
   
 - <h4> Frameworks & Libraries </h4>
   <img src = "https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react-native" />
