@@ -6,7 +6,7 @@
 
 <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
 
-## <picture><img src = "https://github.com/iEarlG/iEarlG/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/iEarlG/iEarlG/about_me.gif" width = 50px></picture> **About me**
   
 - ⭐ A passionate Self-taught Front-end developer
 - ⭐ Currently learning more about **Web 3.0 Web Apps, and on frontend**
