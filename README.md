@@ -60,7 +60,7 @@
   
 <a href="https://github.com/iEarlG/">
   <img src="https://github-readme-stats.vercel.app/api?username=iEarlG&show_icons=true&bg_color=00000000&theme=tokyonight" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iEarlG&show_icons=true&bg_color=00000000&theme=tokyonight" width="320" height="130" alt="iEarlG"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iEarlG&show_icons=true&bg_color=00000000&theme=tokyonight" width="320" height="230" alt="iEarlG"/>
 
 </a>
 </div>
