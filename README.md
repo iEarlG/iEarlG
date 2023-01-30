@@ -29,7 +29,7 @@
 - <h4> Frameworks & Libraries </h4>
   <img src="https://skillicons.dev/icons?i=react" />
   <img src="https://skillicons.dev/icons?i=nextjs" />
-  <img src="https://skillicons.dev/icons?i=reactnative" />
+  <img src="https://skillicons.dev/icons?i=expo" />
   <img src = "https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt = "expo" />
   <img src = "https://img.shields.io/badge/tailwindcss-%23563D7C.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt = "tailwindcss" />
   <img src = "https://img.shields.io/badge/material_ui-%23563D7C.svg?style=for-the-badge&logo=materialui&logoColor=white" alt = "material-ui" />
