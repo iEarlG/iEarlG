@@ -9,7 +9,7 @@
 ## <picture><img src ="https://raw.githubusercontent.com/0xabdulkhalid/0xabdulkhalid/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
   
 - ⭐ A passionate Self-taught Front-end developer
-- ⭐ Currently learning more about **Web 3.0, Web Apps, Andriod Apps, and more**
+- 📚 Currently learning more about **Web 3.0, Web Apps, Andriod Apps, and more**
 - 💀 Mostly right now i'am working on a **eCommerce, Web 3.0 and A.I Web Apps**
 - 👾 A **learner** working his way around new things.
   
