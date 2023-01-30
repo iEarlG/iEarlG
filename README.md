@@ -27,9 +27,9 @@
     <img src = "https://img.shields.io/badge/web3-%23ED8B00.svg?style=for-the-badge&logo=web3&logoColor=white" alt = "web3.0" />
   
 - <h4> Frameworks & Libraries </h4>
-  <img src = "https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react-native" />
-  <img src = "https://img.shields.io/badge/react_js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react-js" />
+  <img src="https://skillicons.dev/icons?i=react" />
   <img src="https://skillicons.dev/icons?i=nextjs" />
+  <img src="https://skillicons.dev/icons?i=reactnative" />
   <img src = "https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt = "expo" />
   <img src = "https://img.shields.io/badge/tailwindcss-%23563D7C.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt = "tailwindcss" />
   <img src = "https://img.shields.io/badge/material_ui-%23563D7C.svg?style=for-the-badge&logo=materialui&logoColor=white" alt = "material-ui" />
