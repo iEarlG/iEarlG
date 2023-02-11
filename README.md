@@ -34,7 +34,7 @@
   <img src = "https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt = "expo" />
   <img src = "https://img.shields.io/badge/tailwindcss-%23563D7C.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt = "tailwindcss" />
   <img src = "https://img.shields.io/badge/Sass-%23563D7C.svg?style=for-the-badge&logo=sass&logoColor=white" alt = "sass" />
-  <img src = "https://img.shields.io/badge/sanity_io-%23563D7C.svg?style=for-the-badge&logo=sanityio&logoColor=white" alt = "sanity-io" />
+  <img src = "https://img.shields.io/badge/sanityio-%23563D7C.svg?style=for-the-badge&logo=sanity&logoColor=white" alt = "sanity-io" />
   
 - <h4> Software & Tools </h4>
   <img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
