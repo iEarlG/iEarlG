@@ -8,7 +8,7 @@
 
 ## <picture><img src ="https://raw.githubusercontent.com/0xabdulkhalid/0xabdulkhalid/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
   
-- ⭐ A passionate Self-taught Front-end developer
+- ⭐ A passionate Self-taught Front-End Developer
 - 📚 Currently learning more about **Web 3.0, Web Apps, Andriod Apps, and more**
 - 📚 I am a Senior HS Graduate at **STI College of Davao** a track course of **MAWD - Mobile Apps & Web Dev.**
 - 💀 Mostly right now i'am working on a **eCommerce, Web 3.0, A.I Web Apps, & Admin CRUD Dashboards**
