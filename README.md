@@ -25,6 +25,7 @@
     <img src = "https://img.shields.io/badge/python-%23ED8B00.svg?style=for-the-badge&logo=python&logoColor=white" alt = "python" />
     <img src = "https://img.shields.io/badge/mern-%23ED8B00.svg?style=for-the-badge&logo=mern&logoColor=white" alt = "mern" />
     <img src = "https://img.shields.io/badge/web3-%23ED8B00.svg?style=for-the-badge&logo=web3&logoColor=white" alt = "web3.0" />
+    <img src = "https://img.shields.io/badge/mui-%23563D7C.svg?style=for-the-badge&logo=mui&logoColor=white" alt = "material-ui" />
   
 - <h4> Frameworks & Libraries </h4>
   <img src="https://skillicons.dev/icons?i=react" />
@@ -32,7 +33,6 @@
   <img src="https://skillicons.dev/icons?i=expo" />
   <img src = "https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt = "expo" />
   <img src = "https://img.shields.io/badge/tailwindcss-%23563D7C.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt = "tailwindcss" />
-  <img src = "https://img.shields.io/badge/material_ui-%23563D7C.svg?style=for-the-badge&logo=materialui&logoColor=white" alt = "material-ui" />
   <img src = "https://img.shields.io/badge/Sass-%23563D7C.svg?style=for-the-badge&logo=sass&logoColor=white" alt = "sass" />
   <img src = "https://img.shields.io/badge/sanity_io-%23563D7C.svg?style=for-the-badge&logo=sanityio&logoColor=white" alt = "sanity-io" />
   
