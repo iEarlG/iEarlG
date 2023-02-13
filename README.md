@@ -11,7 +11,7 @@
 - ⭐ A passionate Self-taught Front-End Developer
 - 📚 Currently learning more about **Web 3.0, Web Apps, Andriod Apps, and more**
 - 📚 I am a Senior HS Graduate at **STI College of Davao** a track course of **MAWD - Mobile Apps & Web Dev.**
-- 💀 Mostly right now i'am working on a **eCommerce, Web 3.0, A.I Web Apps, & Admin CRUD Dashboards**
+- 💀 Mostly right now i'am working on a **eCommerce, Web 3.0, A.I Web Apps, & CRUD Web and Mobile Apps**
 - 👾 A **learner** working his way around new things.
 - 🖥️ A Former RoS Competitive Pro Player playing for ANTZ GAMING, BARCODE CLAN, BARX CLAN, & DISCIPLES
 - 🎮 A Gaming Content Creator, platforms is Facebook Gaming, Twitch Tv, TikTok, & YouTube
