@@ -60,9 +60,9 @@
 ## <img src="https://camo.githubusercontent.com/c0a1ff533f2a741658eb8a0551bd70fb541825ef55f07e8c761aa2795d2e0dfd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" width="35"><b> Github Stats </b>
 <div align="center">
   
-<a href="https://github.com/iEarlG/">
+<a href="https://github.com/iEarlG/" align="center" >
   <img src="https://github-readme-stats.vercel.app/api?username=iEarlG&show_icons=true&bg_color=00000000&theme=tokyonight" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iEarlG&show_icons=true&bg_color=00000000&theme=tokyonight" width="320" alt="iEarlG"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iEarlG&show_icons=true&bg_color=00000000&theme=tokyonight" width="280"
 </a>
   
 </div>
