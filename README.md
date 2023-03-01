@@ -68,4 +68,4 @@
 </div>
 
 <br>
-<p align="center"><a href="https://twitter.com/itseaaarloffcl">Edit by: iEarl G</a></p>
+<p align="center"><a href="https://twitter.com/itseaaarloffcl" target="_blank">Edit by: iEarl G</a></p>
