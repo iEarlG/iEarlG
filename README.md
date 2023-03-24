@@ -31,8 +31,8 @@
     <img src = "https://img.shields.io/badge/mui-%23563D7C.svg?style=for-the-badge&logo=mui&logoColor=white" alt = "material-ui" />
   
 - <h4> Frameworks & Libraries </h4>
-  <img src="https://skillicons.dev/icons?i=react" />
-  <img src="https://skillicons.dev/icons?i=nextjs" />
+  <img src = "https://img.shields.io/badge/react-1C1E24?style=for-the-badge&logo=react&logoColor=#D04A37" alt = "reactjs" />
+  <img src = "https://img.shields.io/badge/nextjs-1C1E24?style=for-the-badge&logo=nextjs&logoColor=#D04A37" alt = "nextjs" />
   <img src = "https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt = "expo" />
   <img src = "https://img.shields.io/badge/tailwindcss-%23563D7C.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt = "tailwindcss" />
   <img src = "https://img.shields.io/badge/Sass-%23563D7C.svg?style=for-the-badge&logo=sass&logoColor=white" alt = "sass" />
