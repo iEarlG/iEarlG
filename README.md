@@ -48,6 +48,7 @@
   
 - <h4> Supporting Languages & Tools </h4>
   <img src = "https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white" alt = "github-pages" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=" />
   
   </br></br>
   
