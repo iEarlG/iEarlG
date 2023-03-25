@@ -80,7 +80,7 @@
   
 <a href="https://github.com/iEarlG/" align="center" >
   <img src="https://github-readme-stats.vercel.app/api?username=iEarlG&show_icons=true&bg_color=00000000&theme=tokyonight" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iEarlG&show_icons=true&bg_color=00000000&theme=tokyonight" width="280"
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iEarlG&show_icons=true&bg_color=00000000&theme=tokyonight" width="200" />
 </a>
   
 </div>
