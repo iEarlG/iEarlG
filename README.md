@@ -1,4 +1,4 @@
-<p align="center" ><img src="https://user-images.githubusercontent.com/91045673/213135097-570e6a16-b9be-4fac-b484-5f7feb3a4809.png"></p>
+<p align="center" ><img src="https://user-images.githubusercontent.com/91045673/227721048-04f7adc1-b38f-416d-ab10-c6289a5d4bfb.png" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iEarlG&color=blue" alt="iEarlG" /> </p>
 <div>
