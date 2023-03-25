@@ -26,13 +26,15 @@
   - <h5> Currently learning </h5>
     <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "ts" />
     <img src = "https://img.shields.io/badge/python-%23ED8B00.svg?style=for-the-badge&logo=python&logoColor=white" alt = "python" />
-    <img src = "https://img.shields.io/badge/mern-%23ED8B00.svg?style=for-the-badge&logo=mern&logoColor=white" alt = "mern" />
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=" />
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label=" />
-    <img src = "https://img.shields.io/badge/web3-%23ED8B00.svg?style=for-the-badge&logo=web3&logoColor=white" alt = "web3.0" />
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=" />
+    <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Web3.js&color=F16822&logo=Web3.js&logoColor=FFFFFF&label=" />
     <img src = "https://img.shields.io/badge/mui-%23563D7C.svg?style=for-the-badge&logo=mui&logoColor=white" alt = "material-ui" />
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Flutter&color=02569B&logo=Flutter&logoColor=FFFFFF&label=" />
     <img src"https://img.shields.io/static/v1?style=for-the-badge&message=NativeScript&color=222222&logo=NativeScript&logoColor=65ADF1&label=" />
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Solidity&color=363636&logo=Solidity&logoColor=FFFFFF&label=" />
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Three.js&color=000000&logo=Three.js&logoColor=FFFFFF&label=" />
   
 - <h4> Frameworks & Libraries </h4>
   <img src = "https://img.shields.io/badge/react-1C1E24?style=for-the-badge&logo=react&logoColor=#D04A37" alt = "reactjs" />
@@ -41,6 +43,7 @@
   <img src = "https://img.shields.io/badge/tailwindcss-%23563D7C.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt = "tailwindcss" />
   <img src = "https://img.shields.io/badge/Sass-%23563D7C.svg?style=for-the-badge&logo=sass&logoColor=white" alt = "sass" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Sanity&color=5865F2&logo=Santiy&logoColor=FFFFFF&label=" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Vite&color=646CFF&logo=Vite&logoColor=FFFFFF&label=" />
   
 - <h4> Software & Tools </h4>
   <img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
@@ -55,6 +58,14 @@
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Namecheap&color=DE3723&logo=Namecheap&logoColor=FFFFFF&label=" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Netlify&color=222222&logo=Netlify&logoColor=00C7B7&label=" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Kotlin&color=7F52FF&logo=Kotlin&logoColor=FFFFFF&label=" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=OBS+Studio&color=302E31&logo=OBS+Studio&logoColor=FFFFFF&label=" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Stack+Overflow&color=F58025&logo=Stack+Overflow&logoColor=FFFFFF&label=" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=000000&logo=Vercel&logoColor=FFFFFF&label=" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio&color=5C2D91&logo=Visual+Studio&logoColor=FFFFFF&label=" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=XAML&color=0C54C2&logo=XAML&logoColor=FFFFFF&label=" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Yarn&color=2C8EBB&logo=Yarn&logoColor=FFFFFF&label=" />
+  
   
   </br></br>
   
@@ -75,4 +86,4 @@
 </div>
 
 <br>
-<p align="center"><a href="https://twitter.com/itseaaarloffcl" target="_blank">Edit by: iEarl G</a></p>
+<p align="center"><a href="https://twitter.com/itseaaarloffcl" target="_blank">Copyright ©2023 | Earl Villapaz</a></p>
