@@ -32,7 +32,6 @@
     <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Web3.js&color=F16822&logo=Web3.js&logoColor=FFFFFF&label=" />
     <img src = "https://img.shields.io/badge/mui-%23563D7C.svg?style=for-the-badge&logo=mui&logoColor=white" alt = "material-ui" />
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Flutter&color=02569B&logo=Flutter&logoColor=FFFFFF&label=" />
-    <img src"https://img.shields.io/static/v1?style=for-the-badge&message=NativeScript&color=222222&logo=NativeScript&logoColor=65ADF1&label=" />
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Solidity&color=363636&logo=Solidity&logoColor=FFFFFF&label=" />
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Three.js&color=000000&logo=Three.js&logoColor=FFFFFF&label=" />
   
@@ -44,6 +43,7 @@
   <img src = "https://img.shields.io/badge/Sass-%23563D7C.svg?style=for-the-badge&logo=sass&logoColor=white" alt = "sass" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Sanity&color=5865F2&logo=Santiy&logoColor=FFFFFF&label=" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Vite&color=646CFF&logo=Vite&logoColor=FFFFFF&label=" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=ReactNative&color=222222&logo=ReactNative&logoColor=65ADF1&label=" />
   
 - <h4> Software & Tools </h4>
   <img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
